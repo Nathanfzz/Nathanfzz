@@ -2,7 +2,7 @@ excc## Mini Project
 ## Nama:Dinathan Fahrezi
 ## NIM:2409116050
 
-Flowchart:![Untitled Diagram](https://github.com/user-attachments/assets/dabaddf1-5e72-4643-b6cd-b58b7ff9e33d)
+Flowchart:![flowchart mini project drawio](https://github.com/user-attachments/assets/e03c4568-d62b-43f4-9312-cc0c59c5c51d)
 Terminal:![Screenshot 2024-09-30 222411](https://github.com/user-attachments/assets/b311bd98-95f7-464e-8b4f-8f81320a00d1)
 
 Penjelasan:
